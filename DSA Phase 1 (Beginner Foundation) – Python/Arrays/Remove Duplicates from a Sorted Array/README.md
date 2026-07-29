@@ -2,7 +2,7 @@
 
 ## 📌 Problem Statement
 
-Given a **sorted array** of integers, remove the duplicate elements **in-place** such that each unique element appears only once.
+Given a sorted array, rearrange it in-place so that the first k positions contain only unique elements. Print the unique elements.
 
 Print the array containing only the unique elements.
 
